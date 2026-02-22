@@ -1,0 +1,2 @@
+# UART-Universal-Asynchronous-Receiver-and-Transmitter-
+UART (Universal Asynchronous Receiver-Transmitter) is a widely used,, cost-effective serial communication protocol that facilitates data exchange between microcontrollers and peripheral devices using only two wires—Transmit (TX) and Receive (RX). It operates asynchronously, meaning it relies on matched baud rates rather than a shared clock signal
